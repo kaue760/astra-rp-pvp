@@ -1,1 +1,3 @@
-[]
+[
+  {"arquivo": "a_samp.inc", "antigo": "#include GMmi\n", "novo": ""}
+]
