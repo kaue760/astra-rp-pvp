@@ -1,0 +1,9 @@
+./a_samp.inc(16) : fatal error 100: cannot read from file: "GMmi"
+
+Compilation aborted.
+
+Pawn compiler 3.10.10	 	 	Copyright (c) 1997-2006, ITB CompuPhase
+
+
+1 Error.
+codigo de saida: 1
