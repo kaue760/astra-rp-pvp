@@ -1,0 +1,50 @@
+name: Compilar Astra
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '*.zip'
+      - 'correcoes.json'
+
+permissions:
+  contents: write
+
+jobs:
+  compilar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Descompactar
+        run: |
+          for z in *.zip; do unzip -o "$z"; done
+
+      - name: Baixar compilador
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libc6-i386
+          curl -fL -o pawn.tar.gz https://github.com/pawn-lang/compiler/releases/download/v3.10.10/pawnc-3.10.10-linux.tar.gz
+          mkdir pawnc
+          tar -xzf pawn.tar.gz -C pawnc --strip-components=1
+
+      - name: Aplicar correcoes
+        run: python3 aplicar_correcoes.py
+
+      - name: Compilar
+        run: |
+          mkdir -p saida
+          export LD_LIBRARY_PATH=$PWD/pawnc/lib
+          set +e
+          ./pawnc/bin/pawncc astra.pwn -Z -i. -osaida/astra.amx > saida/log.txt 2>&1
+          echo "codigo de saida: $?" >> saida/log.txt
+          grep -E "error|fatal" saida/log.txt | head -200 > saida/erros.txt
+          exit 0
+
+      - name: Guardar resultado
+        run: |
+          git config user.name "astra-bot"
+          git config user.email "astra-bot@users.noreply.github.com"
+          git add saida
+          git commit -m "Resultado da compilacao" || true
+          git push
