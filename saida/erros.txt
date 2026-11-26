@@ -1,1 +1,1 @@
-./a_samp.inc(16) : fatal error 100: cannot read from file: "GMmi"
+./a_players.inc(6) : fatal error 100: cannot read from file: "wsagf"
