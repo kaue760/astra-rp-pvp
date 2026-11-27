@@ -1,1 +1,7 @@
-./a_players.inc(6) : fatal error 100: cannot read from file: "wsagf"
+astra_p1.pwn(8841) : error 017: undefined symbol "INVALID_PLAYER_TEXT_DRAW"
+astra_p1.pwn(10191) : error 017: undefined symbol "Cof_MaxCofres"
+astra_p1.pwn(10192) : error 017: undefined symbol "Cr_Load_Cofre"
+astra_p1.pwn(10193) : error 017: undefined symbol "Cr_CofreCriado"
+astra_p1.pwn(10193) : error 001: expected token: ";", but found "]"
+astra_p1.pwn(10193) : error 029: invalid expression, assumed zero
+astra_p1.pwn(10193) : fatal error 107: too many error messages on one line
