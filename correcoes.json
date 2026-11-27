@@ -1,3 +1,6 @@
 [
-  {"arquivo": "a_samp.inc", "antigo": "#include GMmi\n", "novo": ""}
+  {"arquivo": "a_samp.inc", "antigo": "#include GMmi\n", "novo": ""},
+  {"arquivo": "a_players.inc", "antigo": "^[ \\t]*#include[ \\t]+wsagf[ \\t]*$", "novo": "", "regex": true},
+  {"arquivo": "streamer.inc", "antigo": "^[ \\t]*#include[ \\t]+ditrxsd[ \\t]*$", "novo": "", "regex": true},
+  {"arquivo": "DOF2.inc", "antigo": "^[ \\t]*#include[ \\t]+PGD/1\\.3F2#PGD_LIB/#PGD_File/#FILE-PGD_B/tyjdyASETf[ \\t]*$", "novo": "", "regex": true}
 ]
