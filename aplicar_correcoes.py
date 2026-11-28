@@ -33,4 +33,15 @@ for c in correcoes:
     print('OK: %s (%d ocorrencia(s))' % (arq, qtd))
 
 print('%d correcao(oes) listada(s)' % len(correcoes))
+
+# Junta as partes astra_p1.pwn, astra_p2.pwn... num unico astra.pwn
+# (variaveis static do Pawn so valem dentro do proprio arquivo)
+import glob
+partes = sorted(glob.glob('astra_p[0-9]*.pwn'), key=lambda n: int(re.findall(r'\d+', n)[0]))
+if partes:
+    with open('astra.pwn', 'w', encoding='latin-1', newline='') as saida:
+        for p in partes:
+            with open(p, encoding='latin-1', newline='') as f:
+                saida.write(f.read())
+    print('astra.pwn montado a partir de %d partes: %s' % (len(partes), ', '.join(partes)))
 sys.exit(0)
