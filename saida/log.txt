@@ -5,110 +5,106 @@
 ./Dini.inc(187) : warning 214: possibly a "const" array argument was intended: "filename"
 ./Dini.inc(249) : warning 214: possibly a "const" array argument was intended: "newname"
 ./Dini.inc(249) : warning 214: possibly a "const" array argument was intended: "oldname"
-astra_p1.pwn(2809) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(2809) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(6296) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(6296) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(7634) : warning 203: symbol is never used: "reason"
-astra_p1.pwn(7690) : warning 214: possibly a "const" array argument was intended: "string"
-astra_p1.pwn(7731) : warning 203: symbol is never used: "oldstate"
-astra_p1.pwn(7758) : warning 203: symbol is never used: "oldkeys"
-astra_p1.pwn(7843) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8018) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8105) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8105) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8106) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8106) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8107) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8107) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8111) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8111) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8112) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8112) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8113) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8113) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8113) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8113) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8114) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8114) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(2812) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(2812) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(6299) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(6299) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(7637) : warning 203: symbol is never used: "reason"
+astra_p1.pwn(7693) : warning 214: possibly a "const" array argument was intended: "string"
+astra_p1.pwn(7734) : warning 203: symbol is never used: "oldstate"
+astra_p1.pwn(7761) : warning 203: symbol is never used: "oldkeys"
+astra_p1.pwn(7846) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8021) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8108) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8108) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8109) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8109) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8110) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8110) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8114) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8114) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8115) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8115) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8116) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8116) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8116) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8116) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8117) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8117) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8117) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8117) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8118) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8118) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8119) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8119) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8125) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8125) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8126) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8126) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8127) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8127) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8120) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8120) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8121) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8121) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8122) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8122) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8128) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8128) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8129) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8129) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8130) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8130) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8131) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8131) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8131) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8131) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8132) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8132) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8132) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8132) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8133) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8133) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8134) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8134) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8139) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8139) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8140) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8140) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8141) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8141) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8134) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8134) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8135) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8135) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8135) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8135) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8136) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8136) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8137) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8137) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8142) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8142) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8143) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8143) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8144) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8144) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8145) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8145) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8146) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(8146) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8147) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8147) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8154) : warning 203: symbol is never used: "reason"
-astra_p1.pwn(8715) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8841) : error 017: undefined symbol "INVALID_PLAYER_TEXT_DRAW"
-astra_p1.pwn(8880) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8891) : warning 203: symbol is never used: "params"
-astra_p1.pwn(8911) : warning 203: symbol is never used: "params"
-astra_p1.pwn(8918) : warning 203: symbol is never used: "params"
-astra_p1.pwn(8948) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8949) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(8932) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(8955) : warning 203: symbol is never used: "params"
-astra_p1.pwn(8990) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9003) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9016) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9033) : warning 203: symbol is never used: "params"
-astra_p1.pwn(9079) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9062) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9086) : warning 203: symbol is never used: "params"
-astra_p1.pwn(9097) : warning 203: symbol is never used: "params"
-astra_p1.pwn(9108) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9125) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9147) : warning 203: symbol is never used: "params"
-astra_p1.pwn(9163) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9180) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9203) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9204) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9205) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8149) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8149) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8150) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8150) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8157) : warning 203: symbol is never used: "reason"
+astra_p1.pwn(8718) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8883) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8894) : warning 203: symbol is never used: "params"
+astra_p1.pwn(8914) : warning 203: symbol is never used: "params"
+astra_p1.pwn(8921) : warning 203: symbol is never used: "params"
+astra_p1.pwn(8951) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8952) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(8935) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(8958) : warning 203: symbol is never used: "params"
+astra_p1.pwn(8993) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9006) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9019) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9036) : warning 203: symbol is never used: "params"
+astra_p1.pwn(9082) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9065) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9089) : warning 203: symbol is never used: "params"
+astra_p1.pwn(9100) : warning 203: symbol is never used: "params"
+astra_p1.pwn(9111) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9128) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9150) : warning 203: symbol is never used: "params"
+astra_p1.pwn(9166) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9183) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9206) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9207) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9208) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9212) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9214) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9211) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9215) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9216) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9217) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9218) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9219) : warning 239: literal array/string passed to a non-const parameter
@@ -120,33 +116,33 @@ astra_p1.pwn(9224) : warning 239: literal array/string passed to a non-const par
 astra_p1.pwn(9225) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9226) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9227) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9233) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9233) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9234) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9235) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9235) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9235) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9235) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9244) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9245) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9246) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9228) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9229) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9230) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9236) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9236) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9237) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9238) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9238) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9238) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9238) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9247) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9248) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9249) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9250) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9251) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9252) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9253) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9254) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9255) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9256) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9257) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9258) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9259) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9260) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9261) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9281) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9282) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9283) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9262) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9263) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9264) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9284) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9285) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9286) : warning 239: literal array/string passed to a non-const parameter
@@ -162,65 +158,66 @@ astra_p1.pwn(9295) : warning 239: literal array/string passed to a non-const par
 astra_p1.pwn(9296) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9297) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9298) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9457) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9457) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9459) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9452) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9463) : warning 203: symbol is never used: "params"
-astra_p1.pwn(9464) : warning 203: symbol is never used: "params"
-astra_p1.pwn(9464 -- 9514) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9514) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9515) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9515) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9299) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9300) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9301) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9460) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9460) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9462) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9455) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9466) : warning 203: symbol is never used: "params"
+astra_p1.pwn(9467) : warning 203: symbol is never used: "params"
+astra_p1.pwn(9467 -- 9517) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9517) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9517) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9518) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9518) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9520) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9521) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9522) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9522) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9522) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9522) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9526) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9526) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9528) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9528) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9520) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9523) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9524) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9525) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9525) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9525) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9525) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9529) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9529) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9531) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9532) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9533) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9533) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9533) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9533) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9537) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9537) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9539) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9539) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9531) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9534) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9535) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9536) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9536) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9536) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9536) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9540) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9540) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9542) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9543) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9544) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9544) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9544) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9544) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9555) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9562) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9562) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9542) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9545) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9546) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9547) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9547) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9547) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9547) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9558) : warning 239: literal array/string passed to a non-const parameter
 astra_p1.pwn(9565) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9566) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9549) : warning 203: symbol is never used: "params"
-astra_p1.pwn(9580) : warning 239: literal array/string passed to a non-const parameter
-astra_p1.pwn(9583) : warning 214: possibly a "const" array argument was intended: "params"
-astra_p1.pwn(9693) : warning 214: possibly a "const" array argument was intended: "cmdtext"
-astra_p1.pwn(10191) : error 017: undefined symbol "Cof_MaxCofres"
-astra_p1.pwn(10192) : error 017: undefined symbol "Cr_Load_Cofre"
-astra_p1.pwn(10193) : error 017: undefined symbol "Cr_CofreCriado"
-astra_p1.pwn(10193) : warning 215: expression has no effect
-astra_p1.pwn(10193) : error 001: expected token: ";", but found "]"
-astra_p1.pwn(10193) : error 029: invalid expression, assumed zero
-astra_p1.pwn(10193) : fatal error 107: too many error messages on one line
+astra_p1.pwn(9565) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9568) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9569) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9552) : warning 203: symbol is never used: "params"
+astra_p1.pwn(9583) : warning 239: literal array/string passed to a non-const parameter
+astra_p1.pwn(9586) : warning 214: possibly a "const" array argument was intended: "params"
+astra_p1.pwn(9696) : warning 214: possibly a "const" array argument was intended: "cmdtext"
+astra_p2.pwn(3459) : error 017: undefined symbol "pvehicleid"
+astra_p2.pwn(3459) : warning 215: expression has no effect
+astra_p2.pwn(3459) : error 001: expected token: ";", but found "]"
+astra_p2.pwn(3459) : error 029: invalid expression, assumed zero
+astra_p2.pwn(3459) : fatal error 107: too many error messages on one line
 
 Compilation aborted.
 
 Pawn compiler 3.10.10	 	 	Copyright (c) 1997-2006, ITB CompuPhase
 
 
-7 Errors.
+4 Errors.
 codigo de saida: 1
