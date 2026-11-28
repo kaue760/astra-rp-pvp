@@ -210,12 +210,8 @@ astra.pwn(9586) : warning 214: possibly a "const" array argument was intended: "
 astra.pwn(9696) : warning 214: possibly a "const" array argument was intended: "cmdtext"
 astra.pwn(117455) : warning 214: possibly a "const" array argument was intended: "msg"
 astra.pwn(125210) : warning 214: possibly a "const" array argument was intended: "_s"
-astra.pwn(125349) : error 032: array index out of bounds (variable "TextInvP")
-astra.pwn(125350) : error 032: array index out of bounds (variable "TextInvP")
-astra.pwn(125351) : error 032: array index out of bounds (variable "TextInvP")
-astra.pwn(125352) : error 032: array index out of bounds (variable "TextInvP")
 Pawn compiler 3.10.10	 	 	Copyright (c) 1997-2006, ITB CompuPhase
 
 
-4 Errors.
-codigo de saida: 1
+212 Warnings.
+codigo de saida: 0

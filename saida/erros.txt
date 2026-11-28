@@ -1,4 +1,0 @@
-astra.pwn(125349) : error 032: array index out of bounds (variable "TextInvP")
-astra.pwn(125350) : error 032: array index out of bounds (variable "TextInvP")
-astra.pwn(125351) : error 032: array index out of bounds (variable "TextInvP")
-astra.pwn(125352) : error 032: array index out of bounds (variable "TextInvP")
