@@ -1,6 +1,7 @@
 [
   {"arquivo": "a_samp.inc", "antigo": "#include GMmi\n", "novo": ""},
   {"arquivo": "a_players.inc", "antigo": "^[ \\t]*#include[ \\t]+wsagf[ \\t]*$", "novo": "", "regex": true},
-  {"arquivo": "streamer.inc", "antigo": "^[ \\t]*#include[ \\t]+ditrxsd[ \\t]*$", "novo": "", "regex": true},
-  {"arquivo": "DOF2.inc", "antigo": "^[ \\t]*#include[ \\t]+PGD/1\\.3F2#PGD_LIB/#PGD_File/#FILE-PGD_B/tyjdyASETf[ \\t]*$", "novo": "", "regex": true}
+  {"arquivo": "streamer.inc", "antigo": "^[ \\t]*#include[ \\t]+ditrxsd[ \\t]*$", "novo": "#include \"Whatlist.inc\"", "regex": true},
+  {"arquivo": "DOF2.inc", "antigo": "^[ \\t]*#include[ \\t]+PGD/1\\.3F2#PGD_LIB/#PGD_File/#FILE-PGD_B/tyjdyASETf[ \\t]*$", "novo": "#include \"Cofre.inc\"", "regex": true},
+  {"arquivo": "astra_p1.pwn", "antigo": "#include <a_samp>\n", "novo": "#include <a_samp>\n#if !defined INVALID_PLAYER_TEXT_DRAW\n#define INVALID_PLAYER_TEXT_DRAW PlayerText:0xFFFF\n#endif\n"}
 ]
