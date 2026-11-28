@@ -1,4 +1,4 @@
-astra_p2.pwn(3459) : error 017: undefined symbol "pvehicleid"
-astra_p2.pwn(3459) : error 001: expected token: ";", but found "]"
-astra_p2.pwn(3459) : error 029: invalid expression, assumed zero
-astra_p2.pwn(3459) : fatal error 107: too many error messages on one line
+astra.pwn(125349) : error 032: array index out of bounds (variable "TextInvP")
+astra.pwn(125350) : error 032: array index out of bounds (variable "TextInvP")
+astra.pwn(125351) : error 032: array index out of bounds (variable "TextInvP")
+astra.pwn(125352) : error 032: array index out of bounds (variable "TextInvP")
